@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <a href="index.html" class="menu">hoofd pagina</a>
+    <a href="Pagina-2.html" class="menu">foto's en video's</a>
+    <a href="Pagina-3.html" class="menu">tabel</a>
+    <a href="Pagina-4.html" class="menu">lijsten</a>
+    <br>
+    <br>
+    <img src="https://www.kiezelcommunicatie.nl/wp-content/uploads/2012/05/IMG348.jpg" alt="dit is text als je de foto niet kan laden">
+    <img src="https://www.w3schools.com/css/paris.jpg" alt="dit is text als je de foto niet kan laden">
+    <iframe width="300" height="200" src="https://www.youtube.com/embed/i9zRcLGfQis" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </body>
+</html>

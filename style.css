@@ -1,0 +1,105 @@
+body {
+  background-color: black;
+  background-attachment: fixed;
+  background-repeat: repeat;
+  background-size: 900px, 1000px;
+  margin: 5px;
+  padding: 6px;
+  background-position: center;
+}
+.menu {
+  border: 3px solid lightblue;
+  padding: 3px;
+  overflow: hidden;
+  color: white;
+  background-color: lightblue;
+  border-radius: 25px;
+  margin: 20px;
+  float: left;
+}
+.menu:link {
+  color: white;
+}
+.menu:visited {
+  color: white;
+}
+.menu:hover {
+  background-color: rgb(0,0,255);
+}
+
+.een {
+  font-size: 19px;
+  color: lightblue;
+  border: 4px dashed lightblue;
+  border-radius: 20px;
+}
+.twee {
+  border: 5px solid rgb(51,255,255);
+  border-radius: 20px;
+  margin: 5px;
+}
+.drie{
+  color: lightblue;
+  border: solid lightblue;
+  border-radius: 10px;
+}
+
+
+h1 {
+  font-size: 30px;
+  align-content: center;
+  margin: 100px;
+  color: white;
+  padding: lightblue;
+  
+}
+h2 {
+  margin: 10px;
+}
+p {
+  font-size: 20px;
+  margin: 100px;
+  color: lightblue;
+}
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+tr {
+  color: white;
+  background-color: lightblue;
+  margin: 0px;
+  border-spacing: 0px;
+  padding: 0px;
+}
+
+td{
+ padding: 0px;
+ border-style: solid;
+ border-color: white;
+ border-spacing: 0px;
+ border-width: 2px; 
+ width: 0px;
+ height: 30px;
+}
+
+.bovenste-kolom {
+  color: white;
+  background-color: lightblue;
+  border: 2px solid white;
+}
+
+table{
+  width: 100%;
+  background-color: black;
+}
+img{
+  width:100%;
+  height: 100%;
+  display: block;
+}
+ul, li, ol{
+  color: lightblue;
+}
